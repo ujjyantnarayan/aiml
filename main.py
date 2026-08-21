@@ -3,5 +3,5 @@ name="ujjyant"
 print(name)
 
 #dynamically typed
-name="rshdabhishek"
+name="ujjyant"
 print (name)
